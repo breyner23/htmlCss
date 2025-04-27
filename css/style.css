@@ -37,6 +37,7 @@
     height: 380px; 
     margin-top: -300px;
     padding: 0px;
+    background-color: #cbfc87;
 }
 .Loggin
 {
@@ -251,3 +252,6 @@ input
 	width: 40px;
 	height: 58px;
 }
+
+
+
